@@ -1,0 +1,5 @@
+C:\Users\bolsista\Documents\Joyce\Atividade1\Atividade1POO\bin\Debug\Atividade1POO.dll
+C:\Users\bolsista\Documents\Joyce\Atividade1\Atividade1POO\bin\Debug\Atividade1POO.pdb
+C:\Users\bolsista\Documents\Joyce\Atividade1\Atividade1POO\obj\Debug\Atividade1POO.csproj.CoreCompileInputs.cache
+C:\Users\bolsista\Documents\Joyce\Atividade1\Atividade1POO\obj\Debug\Atividade1POO.dll
+C:\Users\bolsista\Documents\Joyce\Atividade1\Atividade1POO\obj\Debug\Atividade1POO.pdb

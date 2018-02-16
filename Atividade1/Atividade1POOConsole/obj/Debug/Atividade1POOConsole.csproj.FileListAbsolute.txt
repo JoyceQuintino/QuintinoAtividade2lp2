@@ -1,0 +1,8 @@
+C:\Users\bolsista\Documents\Joyce\Atividade1\Atividade1POOConsole\bin\Debug\Atividade1POOConsole.exe.config
+C:\Users\bolsista\Documents\Joyce\Atividade1\Atividade1POOConsole\bin\Debug\Atividade1POOConsole.exe
+C:\Users\bolsista\Documents\Joyce\Atividade1\Atividade1POOConsole\bin\Debug\Atividade1POOConsole.pdb
+C:\Users\bolsista\Documents\Joyce\Atividade1\Atividade1POOConsole\bin\Debug\Atividade1POO.dll
+C:\Users\bolsista\Documents\Joyce\Atividade1\Atividade1POOConsole\bin\Debug\Atividade1POO.pdb
+C:\Users\bolsista\Documents\Joyce\Atividade1\Atividade1POOConsole\obj\Debug\Atividade1POOConsole.exe
+C:\Users\bolsista\Documents\Joyce\Atividade1\Atividade1POOConsole\obj\Debug\Atividade1POOConsole.pdb
+C:\Users\bolsista\Documents\Joyce\Atividade1\Atividade1POOConsole\obj\Debug\Atividade1POOConsole.csprojResolveAssemblyReference.cache

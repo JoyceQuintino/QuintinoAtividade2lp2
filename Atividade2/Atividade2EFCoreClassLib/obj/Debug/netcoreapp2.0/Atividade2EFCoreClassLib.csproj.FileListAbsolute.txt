@@ -1,0 +1,16 @@
+C:\Users\bolsista\Documents\Joyce\Atividade2\Atividade2EFCoreClassLib\bin\Debug\netcoreapp2.0\Atividade2EFCoreClassLib.deps.json
+C:\Users\bolsista\Documents\Joyce\Atividade2\Atividade2EFCoreClassLib\bin\Debug\netcoreapp2.0\Atividade2EFCoreClassLib.dll
+C:\Users\bolsista\Documents\Joyce\Atividade2\Atividade2EFCoreClassLib\bin\Debug\netcoreapp2.0\Atividade2EFCoreClassLib.pdb
+C:\Users\bolsista\Documents\Joyce\Atividade2\Atividade2EFCoreClassLib\obj\Debug\netcoreapp2.0\Atividade2EFCoreClassLib.csproj.CoreCompileInputs.cache
+C:\Users\bolsista\Documents\Joyce\Atividade2\Atividade2EFCoreClassLib\obj\Debug\netcoreapp2.0\Atividade2EFCoreClassLib.AssemblyInfoInputs.cache
+C:\Users\bolsista\Documents\Joyce\Atividade2\Atividade2EFCoreClassLib\obj\Debug\netcoreapp2.0\Atividade2EFCoreClassLib.AssemblyInfo.cs
+C:\Users\bolsista\Documents\Joyce\Atividade2\Atividade2EFCoreClassLib\obj\Debug\netcoreapp2.0\Atividade2EFCoreClassLib.dll
+C:\Users\bolsista\Documents\Joyce\Atividade2\Atividade2EFCoreClassLib\obj\Debug\netcoreapp2.0\Atividade2EFCoreClassLib.pdb
+C:\Users\bolsista\Documents\Joyce\Quintino_lp2\Atividade2\Atividade2EFCoreClassLib\bin\Debug\netcoreapp2.0\Atividade2EFCoreClassLib.deps.json
+C:\Users\bolsista\Documents\Joyce\Quintino_lp2\Atividade2\Atividade2EFCoreClassLib\bin\Debug\netcoreapp2.0\Atividade2EFCoreClassLib.dll
+C:\Users\bolsista\Documents\Joyce\Quintino_lp2\Atividade2\Atividade2EFCoreClassLib\bin\Debug\netcoreapp2.0\Atividade2EFCoreClassLib.pdb
+C:\Users\bolsista\Documents\Joyce\Quintino_lp2\Atividade2\Atividade2EFCoreClassLib\obj\Debug\netcoreapp2.0\Atividade2EFCoreClassLib.csproj.CoreCompileInputs.cache
+C:\Users\bolsista\Documents\Joyce\Quintino_lp2\Atividade2\Atividade2EFCoreClassLib\obj\Debug\netcoreapp2.0\Atividade2EFCoreClassLib.AssemblyInfoInputs.cache
+C:\Users\bolsista\Documents\Joyce\Quintino_lp2\Atividade2\Atividade2EFCoreClassLib\obj\Debug\netcoreapp2.0\Atividade2EFCoreClassLib.AssemblyInfo.cs
+C:\Users\bolsista\Documents\Joyce\Quintino_lp2\Atividade2\Atividade2EFCoreClassLib\obj\Debug\netcoreapp2.0\Atividade2EFCoreClassLib.dll
+C:\Users\bolsista\Documents\Joyce\Quintino_lp2\Atividade2\Atividade2EFCoreClassLib\obj\Debug\netcoreapp2.0\Atividade2EFCoreClassLib.pdb

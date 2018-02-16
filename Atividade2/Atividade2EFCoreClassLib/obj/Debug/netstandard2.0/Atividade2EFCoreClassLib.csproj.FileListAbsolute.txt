@@ -1,0 +1,8 @@
+C:\Users\bolsista\Documents\Joyce\Atividade2\Atividade2EFCoreClassLib\obj\Debug\netstandard2.0\Atividade2EFCoreClassLib.csproj.CoreCompileInputs.cache
+C:\Users\bolsista\Documents\Joyce\Atividade2\Atividade2EFCoreClassLib\obj\Debug\netstandard2.0\Atividade2EFCoreClassLib.AssemblyInfoInputs.cache
+C:\Users\bolsista\Documents\Joyce\Atividade2\Atividade2EFCoreClassLib\obj\Debug\netstandard2.0\Atividade2EFCoreClassLib.AssemblyInfo.cs
+C:\Users\bolsista\Documents\Joyce\Atividade2\Atividade2EFCoreClassLib\bin\Debug\netstandard2.0\Atividade2EFCoreClassLib.deps.json
+C:\Users\bolsista\Documents\Joyce\Atividade2\Atividade2EFCoreClassLib\bin\Debug\netstandard2.0\Atividade2EFCoreClassLib.dll
+C:\Users\bolsista\Documents\Joyce\Atividade2\Atividade2EFCoreClassLib\bin\Debug\netstandard2.0\Atividade2EFCoreClassLib.pdb
+C:\Users\bolsista\Documents\Joyce\Atividade2\Atividade2EFCoreClassLib\obj\Debug\netstandard2.0\Atividade2EFCoreClassLib.dll
+C:\Users\bolsista\Documents\Joyce\Atividade2\Atividade2EFCoreClassLib\obj\Debug\netstandard2.0\Atividade2EFCoreClassLib.pdb
